@@ -21,6 +21,8 @@ future==0.18.2
 graphviz==0.16
 hyperopt==0.2.5
 idna==2.10
+imbalanced-learn==0.7.0
+imblearn==0.0
 ipykernel==5.4.3
 ipython==7.20.0
 ipython-genutils==0.2.0
